@@ -1,1 +1,4 @@
 hello this is just a test to check git integration.
+
+- how to fetch the repo and create new branch out of it.
+- 
